@@ -1,2 +1,2 @@
-# iffall2026
+# ifspring2026
 Interaction Foundations
